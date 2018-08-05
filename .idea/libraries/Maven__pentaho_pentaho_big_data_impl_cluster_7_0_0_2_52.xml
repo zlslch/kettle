@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-big-data-impl-cluster:7.0.0.2-52">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-big-data-impl-cluster/7.0.0.2-52/pentaho-big-data-impl-cluster-7.0.0.2-52.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-big-data-impl-cluster/7.0.0.2-52/pentaho-big-data-impl-cluster-7.0.0.2-52-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-big-data-impl-cluster/7.0.0.2-52/pentaho-big-data-impl-cluster-7.0.0.2-52-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

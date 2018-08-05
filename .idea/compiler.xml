@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jingwei-task-monitor" />
+        <module name="kettle-ext" />
+        <module name="kettle-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jingwei-task-monitor" target="1.7" />
+      <module name="kettle" target="1.7" />
+      <module name="kettle-ext" target="1.7" />
+      <module name="kettle-webapp" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

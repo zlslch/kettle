@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jingwei-task-monitor/jingwei-task-monitor.iml" filepath="$PROJECT_DIR$/jingwei-task-monitor/jingwei-task-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kettle.iml" filepath="$PROJECT_DIR$/kettle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kettle-ext/kettle-ext.iml" filepath="$PROJECT_DIR$/kettle-ext/kettle-ext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kettle-webapp/kettle-webapp.iml" filepath="$PROJECT_DIR$/kettle-webapp/kettle-webapp.iml" />
+    </modules>
+  </component>
+</project>
